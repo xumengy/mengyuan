@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>夢圓</title>
+  </head>
+  <style>
+    html,body{
+      margin: 0;
+      padding: 0;
+    }
+    .content{
+      width: 900px;
+      margin: 0 auto;
+    }
+  </style>
+  <body>
+    <div id='rootmy'>
+        <div class="header">
+            <header-top></header-top>
+        </div>
+        <div class="content">
+            <router-view></router-view>
+        </div>
+        <div class="footer">
+            <footer-bottom></footer-bottom>
+        </div>
+    </div>
+    <canvas id="sakura"></canvas>
+    <!-- sakura shader -->
+    <script src="http://cdn.stosz.com/build/plugins/vue/vue.js"></script>
+    <script src="../web/asset/webGL/three.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>

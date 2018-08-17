@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"backg",
+				"background-position"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"te",
+				"text-decoration-style"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
 				"marg",
 				"margin-left"
 			],
@@ -22,10 +46,6 @@
 			[
 				"TR",
 				"translateY()"
-			],
-			[
-				"pad",
-				"padding-top"
 			],
 			[
 				"tmp",
@@ -124,24 +144,12 @@
 				"event"
 			],
 			[
-				"te",
-				"text-indent"
-			],
-			[
-				"backg",
-				"background-repeat"
-			],
-			[
 				"hi",
 				"hide"
 			],
 			[
 				"la",
 				"layer"
-			],
-			[
-				"margin",
-				"margin-top"
 			],
 			[
 				"tex",
@@ -356,10 +364,6 @@
 				"explode"
 			],
 			[
-				"fl",
-				"false"
-			],
-			[
 				"val",
 				"valid"
 			],
@@ -510,15 +514,29 @@
 			[
 				"stoc",
 				"stockID"
-			],
-			[
-				"RE",
-				"return"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "app/public/test.html",
+			"settings":
+			{
+				"buffer_size": 7086,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/public/index.html",
+			"settings":
+			{
+				"buffer_size": 781,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -531,6 +549,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
 			[
 				"packagecontrol",
 				"Package Control: Install Package"
@@ -548,10 +574,6 @@
 				"Package Control: List Packages"
 			],
 			[
-				"in",
-				"Package Control: Install Package"
-			],
-			[
 				"insta",
 				"Package Control: Install Package"
 			]
@@ -563,6 +585,7 @@
 		"height": 146.0,
 		"history":
 		[
+			"node"
 		]
 	},
 	"distraction_free":
@@ -576,10 +599,87 @@
 	},
 	"expanded_folders":
 	[
-		"/D/xumengyuan"
+		"/D/xumengyuan",
+		"/D/xumengyuan/app",
+		"/D/xumengyuan/app/resource",
+		"/D/xumengyuan/app/web",
+		"/D/xumengyuan/app/web/asset",
+		"/D/xumengyuan/app/web/asset/webGL",
+		"/D/xumengyuan/app/web/module",
+		"/D/xumengyuan/app/web/src",
+		"/D/xumengyuan/app/web/views",
+		"/D/xumengyuan/初级教程r73",
+		"/D/xumengyuan/初级教程r73/chapter1",
+		"/D/xumengyuan/初级教程r73/chapter2",
+		"/D/xumengyuan/初级教程r73/chapter3"
 	],
 	"file_history":
 	[
+		"/D/xumengyuan/app/public/index.html",
+		"/D/xumengyuan/app/public/three.html",
+		"/D/xumengyuan/app/web/views/header.vue",
+		"/D/xumengyuan/初级教程r73/chapter2/2-1.html",
+		"/D/xumengyuan/初级教程r73/chapter3/3-1.html",
+		"/D/xumengyuan/初级教程r73/chapter3/3-2.html",
+		"/D/xumengyuan/app/web/module/sakura.vue",
+		"/D/xumengyuan/app/web/main.js",
+		"/D/xumengyuan/app/package.json",
+		"/D/xumengyuan/app/web/routes.js",
+		"/D/xumengyuan/app/web/views/home.vue",
+		"/D/xumengyuan/app/web/views/song.vue",
+		"/D/xumengyuan/初级教程r73/chapter1/1-2.html",
+		"/D/xumengyuan/app/web/views/footer.vue",
+		"/D/xumengyuan/app/web/asset/webGL/three.js",
+		"/E/xampp/htdocs/shopAdmin/admin/webpack.production.config.js",
+		"/E/xampp/htdocs/design-pro/public/fontend/webpack.config.js",
+		"/E/xampp/htdocs/shopAdmin/admin/webpack.dev.config.js",
+		"/E/xampp/htdocs/design-pro/public/fontend/package.json",
+		"/D/xumengyuan/app/webpack.config.js",
+		"/D/xumengyuan/app/web/src/config.json",
+		"/D/xumengyuan/app/public/bundle.js",
+		"/D/xumengyuan/app/web/asset/webGL/main.html",
+		"/D/xumengyuan/app/web/asset/webGL/main.js",
+		"/C/Users/mengyuan/Downloads/JSRun_樱花雨/main.css",
+		"/C/Users/mengyuan/Downloads/JSRun_樱花雨/main.js",
+		"/C/Users/mengyuan/Downloads/JSRun_樱花雨/main.html",
+		"/C/Users/mengyuan/Downloads/JSRun_weqKp/main.css",
+		"/C/Users/mengyuan/Downloads/JSRun_weqKp/main.html",
+		"/C/Users/mengyuan/Downloads/JSRun_weqKp/main.js",
+		"/C/Users/mengyuan/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/E/xampp/htdocs/test/webpack sample project/bundle.js",
+		"/E/xampp/htdocs/design-pro/public/fontend/src/views/progress.vue",
+		"/E/xampp/htdocs/design-pro/public/fontend/src/App.vue",
+		"/E/xampp/htdocs/design-pro/public/fontend/src/views/home.vue",
+		"/D/xumengyuan/app/web/header.vue",
+		"/D/xumengyuan/app/src/main.js",
+		"/D/xumengyuan/app/web/home.vue",
+		"/D/xumengyuan/app/src/routes.js",
+		"/E/xampp/htdocs/design-pro/public/fontend/src/routes.js",
+		"/D/xumengyuan/app/web/footer.vue",
+		"/D/xumengyuan/package.json",
+		"/D/xumengyuan/app/routes.js",
+		"/D/xumengyuan/app/main.js",
+		"/D/xumengyuan/webpack.config.js",
+		"/E/xampp/htdocs/design-pro/application/view/auth/index.html",
+		"/E/xampp/htdocs/design-pro/public/index.php",
+		"/E/xampp/htdocs/design-pro/public/fontend/index.html",
+		"/D/xumengyuan/public/index.html",
+		"/D/xumengyuan/app/config.json",
+		"/E/xampp/htdocs/design-pro/public/fontend/src/main.js",
+		"/D/xumengyuan/app/Greeter.js",
+		"/D/xumengyuan/app/web/song.vue",
+		"/E/xampp/htdocs/shopAdmin/admin/build/index.html",
+		"/E/xampp/htdocs/lshop/resources/views/themes/style6/list.blade.php",
+		"/E/xampp/htdocs/test/mengyuan/package.json",
+		"/E/xampp/htdocs/test/webpack sample project/package.json",
+		"/D/xumengyuan/app/router.js",
+		"/E/xampp/htdocs/shopAdmin/admin/source/vue/main.js",
+		"/D/xumengyuan/app/resource/less/main.less",
+		"/E/xampp/htdocs/test/webpack sample project/main.js",
+		"/D/xumengyuan/public/bundle.js",
+		"/D/xumengyuan/resource/less/main.less",
+		"/E/xampp/htdocs/test/mengyuan/index.js",
+		"/E/xampp/htdocs/test/webpack sample project/webpack.config.js",
 		"/E/xampp/htdocs/stoshop/frontend/source/order/region/ind.vue",
 		"/E/xampp/htdocs/stoshop/frontend/source/order/region/basic.vue",
 		"/E/xampp/htdocs/stoshop/public/theme/checkout.twig",
@@ -642,76 +742,11 @@
 		"/E/xampp/htdocs/szcuckoo/include/arc.partview.class.php",
 		"/E/xampp/htdocs/szcuckoo/templets/web/top.htm",
 		"/E/xampp/htdocs/szcuckoo/templets/mweb/recruit_school_en.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/web/join_school.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/mweb/footer.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/mweb/concat_us.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/mweb/join_comindex.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/mweb/join_company.htm",
-		"/E/xampp/htdocs/szcuckoo/include/dedetag.class.php",
-		"/E/xampp/htdocs/szcuckoo/dede/templets/menu.htm",
-		"/E/xampp/htdocs/szcuckoo/dede/templets/makehtml_homepage.htm",
-		"/E/xampp/htdocs/szcuckoo/dede/config.php",
-		"/E/xampp/htdocs/szcuckoo/en/join/incuckoo/list_24_1.html",
-		"/E/xampp/htdocs/szcuckoo/templets/web/activity_index.htm",
-		"/E/xampp/htdocs/dede-mobile-official-website/templets/web/join_company.htm",
-		"/E/xampp/htdocs/szcuckoo/mobile/en/join/incuckoo/index.html",
-		"/E/xampp/htdocs/szcuckoo/templets/mweb/left.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/mweb/recruit.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/mweb/recruit_school.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/mweb/about_bugu.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/mweb/company_article.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/mweb/company_bussiness.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/mweb/company_msg.htm",
-		"/E/xampp/htdocs/szcuckoo/mobile/index.html",
-		"/E/xampp/htdocs/szcuckoo/templets/web/join_us.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/web/join_first.htm",
-		"/E/xampp/htdocs/szcuckoo/en/join/recruit/list_9_2.html",
-		"/E/xampp/htdocs/szcuckoo/skin/css/article-style.css",
-		"/E/xampp/htdocs/szcuckoo/include/taglib/channel.lib.php",
-		"/E/xampp/htdocs/szcuckoo/templets/web/left.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/web/about.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/web/article.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/web/article_fullscreen.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/web/article_list.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/web/article_ac.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/web/list_zm.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/web/list_cp.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/web/list_activity.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/web/article_activity.htm",
-		"/E/xampp/htdocs/szcuckoo/templets/web/article_cp.htm",
-		"/E/xampp/htdocs/stoshop/public/javascript/order-public.js",
-		"/E/xampp/htdocs/stoshop/lang/idn.php",
-		"/E/xampp/htdocs/stoshop/gulpfile.js",
-		"/E/xampp/htdocs/stoshop/public/theme/bi.twig",
-		"/E/xampp/htdocs/stoshop/public/theme/footer.twig",
-		"/E/xampp/htdocs/stoshop/frontend/source/order/region/idr.vue",
-		"/E/xampp/htdocs/stoshop/public/theme/footer_lightning.twig",
-		"/E/xampp/htdocs/stoshop/public/theme/footer_checkout.twig",
-		"/E/xampp/htdocs/stoshop/public/theme/header_checkout.twig",
-		"/E/xampp/htdocs/stoshop/public/theme/header.twig",
-		"/E/xampp/htdocs/stoshop/frontend/source/order/region/mys.vue",
-		"/E/xampp/htdocs/stoshop/public/less/page-checkout.less",
-		"/E/xampp/htdocs/stoshop/public/style/page-checkout.css",
-		"/E/xampp/htdocs/stoshop/public/theme/order_tha.twig",
-		"/E/xampp/htdocs/stoshop/theme/style68/index.twig",
-		"/E/xampp/htdocs/stoshop/frontend/source/order/main.js",
-		"/E/xampp/htdocs/stoshop/public/theme/order_ind.twig",
-		"/E/xampp/htdocs/stoshop/theme/style39/checkout.twig",
-		"/E/xampp/htdocs/stoshop/order.php",
-		"/E/xampp/htdocs/stoshop/theme/style92_1/index.twig",
-		"/E/xampp/htdocs/stoshop/theme/style92_1/js/checkout.js",
-		"/E/xampp/htdocs/stoshop/theme/style68/js/index.js",
-		"/E/xampp/htdocs/stoshop/public/theme/google_remarketing_cat.twig",
-		"/E/xampp/htdocs/stoshop/home/style7/script/cat.js",
-		"/E/xampp/htdocs/stoshop/public/javascript/cjs.js",
-		"/E/xampp/htdocs/stoshop/home/style7/cat.twig",
-		"/E/xampp/htdocs/stoshop/home/style12/script/cat.js",
-		"/E/xampp/htdocs/stoshop/home/style12/cat.twig",
-		"/E/xampp/htdocs/stoshop/home/style3/index.twig"
+		"/E/xampp/htdocs/szcuckoo/templets/web/join_school.htm"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -725,6 +760,26 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"requestAnimationFrame",
+			"fx_common_vsh",
+			"animate",
+			"toggleAnimation",
+			"requestAnimationFrame",
+			"x-shader/x_vertex",
+			"toggleAnimation",
+			"vue",
+			"}\n",
+			"devServer",
+			"webpack-dev-server",
+			"vue-template-compiler",
+			"vue-router",
+			"index",
+			"slidemenu",
+			"resolve",
+			"vue",
+			"vur",
+			");\n",
+			"com"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -742,14 +797,77 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/public/test.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7086,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1373,
+								1373
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								676,
+								727
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 22.0
 	},
 	"input":
 	{
@@ -786,7 +904,7 @@
 	"project": "xumengyuan.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -846,7 +964,7 @@
 		[
 			[
 				"",
-				"E:\\xampp\\htdocs\\szcuckoo\\szcuckoo.sublime-workspace"
+				"E:\\xampp\\htdocs\\atlas_web\\atlas.sublime-project"
 			]
 		],
 		"width": 380.0
