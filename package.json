@@ -1,0 +1,22 @@
+{
+  "name": "xumengyuan",
+  "version": "1.0.0",
+  "description": "\"# mengyuan\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xumengy/mengyuan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xumengy/mengyuan/issues"
+  },
+  "homepage": "https://github.com/xumengy/mengyuan#readme",
+  "devDependencies": {
+    "webpack": "^4.0.0"
+  }
+}
