@@ -4,7 +4,7 @@
   "description": "\"# mengyuan\"",
   "main": "index.js",
   "scripts": {
-    "start": "webpack"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,8 @@
     "url": "https://github.com/xumengy/mengyuan/issues"
   },
   "homepage": "https://github.com/xumengy/mengyuan#readme",
-  "devDependencies": {
-    "webpack": "^4.0.0"
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
   }
 }
