@@ -519,6 +519,59 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1137,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 1596,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/home.html",
+			"settings":
+			{
+				"buffer_size": 233,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/index.html",
+			"settings":
+			{
+				"buffer_size": 234,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/error.html",
+			"settings":
+			{
+				"buffer_size": 261,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/layout.html",
+			"settings":
+			{
+				"buffer_size": 226,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -576,10 +629,29 @@
 	},
 	"expanded_folders":
 	[
-		"/D/xumengyuan"
+		"/D/xumengyuan",
+		"/D/xumengyuan/static",
+		"/D/xumengyuan/views"
 	],
 	"file_history":
 	[
+		"/D/xumengyuan/express_demo.js",
+		"/D/xumengyuan/views/index.jade",
+		"/D/xumengyuan/index.js",
+		"/D/xumengyuan/bin/www",
+		"/D/xumengyuan/action/route.js",
+		"/D/xumengyuan/action/act.home.js",
+		"/D/xumengyuan/static/css/home.css",
+		"/D/xumengyuan/static/html/home.html",
+		"/D/xumengyuan/static/js/home.js",
+		"/D/xumengyuan/views/home.html",
+		"/D/xumengyuan/model/mod.user.js",
+		"/D/xumengyuan/common/defines.js",
+		"/D/xumengyuan/common/utils.js",
+		"/D/xumengyuan/www",
+		"/D/xumengyuan/views/layout.jade",
+		"/D/xumengyuan/views/error.jade",
+		"/D/xumengyuan/xumengyuan/package.json",
 		"/E/xampp/htdocs/stoshop/frontend/source/order/region/ind.vue",
 		"/E/xampp/htdocs/stoshop/frontend/source/order/region/basic.vue",
 		"/E/xampp/htdocs/stoshop/public/theme/checkout.twig",
@@ -690,24 +762,7 @@
 		"/E/xampp/htdocs/stoshop/public/theme/header_checkout.twig",
 		"/E/xampp/htdocs/stoshop/public/theme/header.twig",
 		"/E/xampp/htdocs/stoshop/frontend/source/order/region/mys.vue",
-		"/E/xampp/htdocs/stoshop/public/less/page-checkout.less",
-		"/E/xampp/htdocs/stoshop/public/style/page-checkout.css",
-		"/E/xampp/htdocs/stoshop/public/theme/order_tha.twig",
-		"/E/xampp/htdocs/stoshop/theme/style68/index.twig",
-		"/E/xampp/htdocs/stoshop/frontend/source/order/main.js",
-		"/E/xampp/htdocs/stoshop/public/theme/order_ind.twig",
-		"/E/xampp/htdocs/stoshop/theme/style39/checkout.twig",
-		"/E/xampp/htdocs/stoshop/order.php",
-		"/E/xampp/htdocs/stoshop/theme/style92_1/index.twig",
-		"/E/xampp/htdocs/stoshop/theme/style92_1/js/checkout.js",
-		"/E/xampp/htdocs/stoshop/theme/style68/js/index.js",
-		"/E/xampp/htdocs/stoshop/public/theme/google_remarketing_cat.twig",
-		"/E/xampp/htdocs/stoshop/home/style7/script/cat.js",
-		"/E/xampp/htdocs/stoshop/public/javascript/cjs.js",
-		"/E/xampp/htdocs/stoshop/home/style7/cat.twig",
-		"/E/xampp/htdocs/stoshop/home/style12/script/cat.js",
-		"/E/xampp/htdocs/stoshop/home/style12/cat.twig",
-		"/E/xampp/htdocs/stoshop/home/style3/index.twig"
+		"/E/xampp/htdocs/stoshop/public/less/page-checkout.less"
 	],
 	"find":
 	{
@@ -742,8 +797,184 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								583,
+								583
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1009,
+								1009
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/error.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								261
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "views/layout.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -846,7 +1077,7 @@
 		[
 			[
 				"",
-				"E:\\xampp\\htdocs\\szcuckoo\\szcuckoo.sublime-workspace"
+				"E:\\xampp\\htdocs\\atlas_web\\atlas.sublime-project"
 			]
 		],
 		"width": 380.0
