@@ -8,7 +8,7 @@ const env = require(`../config/${process.env.ENV_CONFIG}.env.js`)
 
 module.exports = merge(common, {
   mode: 'production',
-  devtool: 'source-map',
+  devtool: '#source-map',
   plugins: [
     new UglifyJSPlugin({
       uglifyOptions: {
