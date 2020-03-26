@@ -1,0 +1,1 @@
+webpackJsonp([70],{EbJ2:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={name:"bargainCreate",components:{formModular:t("4HpB").default},data:function(){return{}}},a={render:function(){var e=this.$createElement;return(this._self._c||e)("form-modular")},staticRenderFns:[]},u=t("VU/8")(r,a,!1,null,null,null);n.default=u.exports}});
