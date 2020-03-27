@@ -21,8 +21,9 @@
     }
   }
 </script>
-<style>
+<style scoped res="stylesheet/less" lang="less">
+@color: #f938ab;
 .title{
-  color: #f938ab;
+  color: @color;
 }
 </style>

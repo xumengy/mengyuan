@@ -1,7 +1,6 @@
 const path = require('path');
-const HtmlWebpackPlugin = require('html-webpack-plugin');
+const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 const VueLoaderPlugin = require('vue-loader/lib/plugin');
-
 
 module.exports = {
   context: path.resolve(__dirname, '../'),
@@ -9,12 +8,7 @@ module.exports = {
     app: './src/main.js'
   },
   plugins: [
-    new HtmlWebpackPlugin({
-      filename: 'index.html',
-      template: 'index.html',
-      title: 'mengyuan',
-      path: '/static'
-    }),
+    new CleanWebpackPlugin(),
     new VueLoaderPlugin()
   ],
   output: {
@@ -41,25 +35,6 @@ module.exports = {
             plugins: ['@babel/transform-runtime']
           }
         }
-      },
-      {
-        test: /\.css$/,
-        use: [
-          'vue-style-loader', 
-          {
-            loader: 'css-loader',
-            options: { importLoaders: 1 }
-          },
-          'postcss-loader'
-        ]
-      },
-      {
-        test: /\.less$/,
-        use: [
-          'vue-style-loader',
-          'css-loader',
-          'less-loader'
-        ]
       },
       {
         enforce: 'pre',

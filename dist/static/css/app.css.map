@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/App.vue?c1e4","webpack:///./src/styles/base.less"],"names":[],"mappings":"AAAA;AACA;AACA;;ACFA;AACA;AACA","file":"static/css/app.css","sourcesContent":[".title[data-v-4b455a9c] {\n  color: #f938ab;\n}\n",".title {\n  color: #350c24;\n}\n"],"sourceRoot":""}
